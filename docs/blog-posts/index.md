@@ -81,18 +81,7 @@ This week I learned the fundamentals of React component architecture and state m
 
 Use this section to share deeper insights about technical concepts you're learning. For example:
 
-```markdown
 ### Thoughts on Functional vs. Object-Oriented Programming
 After experimenting with both paradigms, I've found that functional programming offers...
-```
 
 <!-- TODO: MENTEE - Share your thoughts on technical concepts here -->
-
-## Project Updates
-
-Share updates about your ongoing projects, highlighting:
-- Current status
-- Challenges faced
-- Solutions implemented
-- Next steps
-

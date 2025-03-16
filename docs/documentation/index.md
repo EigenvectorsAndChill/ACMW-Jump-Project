@@ -96,15 +96,3 @@ For a complete example of documentation that includes code, images, and detailed
 ## Learning Notes
 
 <!-- TODO: MENTEE - Add technical notes from your learning journey here -->
-```
-
-This updated file:
-
-1. Provides instructions for editing Markdown
-2. Shows how to add code blocks with syntax highlighting
-3. Explains how to add images with an example that uses the etl.png
-4. Shows how to create links to other documentation files
-5. Includes guidance on updating JavaScript files
-6. Provides a direct link to the ETL Process Guide (etl-process.md) as a reference example
-
-The mentees can use this as a reference for adding their own documentation, code samples, and project details.
